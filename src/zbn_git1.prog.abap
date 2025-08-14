@@ -9,3 +9,7 @@ IF sy-subrc = 0.
 ENDIF.
 
 WRITE 'This is a new change'.
+
+IF 1 = 1.
+
+ENDIF.
