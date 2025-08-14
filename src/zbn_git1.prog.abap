@@ -6,5 +6,6 @@
 REPORT ZBN_GIT1.
 
 IF sy-subrc = 0.
-
 ENDIF.
+
+WRITE 'This is a new change'.
